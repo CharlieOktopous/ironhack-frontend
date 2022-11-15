@@ -1,3 +1,46 @@
+<h1>Apuntes Bootcamp </h1>
+En este readme veremos un breve resumen de lo que hemos realizado cada dia en las clases del bootcamp de IronHack
+
+## 07 Noviembre 
+
+- Iniciación en HTML 
+    - Tags meta
+    - Diferentes tipos de tipografía
+    - Introducir links locales y externos
+    - Introducir imagenes
+    - Listas
+
+## 08 Noviembre
+
+- Iniciación CSS
+    - Colores
+    - Tipografías
+    - Background
+    - Borders
+    - Box-model
+
+## 09 Noviembre
+
+- CSS
+    - Forms
+    - Backgroung image
+    - Buttons
+
+## 10 Noviembre
+
+- CSS
+    - Media query
+    - Flex box
+    - Inline vs block
+    - Positions
+
+## 11 Noviembre
+
+- JavaScript
+    - First contact
+- CSS
+    - Grid
+
 <h1 align="center">
   <a href="https://github.com/dzc1/ironhack-nov07">
     <img src="./assets/imgs/banner.png" alt="Vue Conforcat Class">
