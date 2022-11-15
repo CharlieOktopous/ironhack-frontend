@@ -41,6 +41,27 @@ En este readme veremos un breve resumen de lo que hemos realizado cada dia en la
 - CSS
     - Grid
 
+## 14 Noviembre 
+
+---- JS PART ----
+
+1. Intro de JS.
+2. Sintaxis básica de JS.
+   2.1. Tipos de datos en JS (Primitivos y no-Primitivos)
+3. Variables JS.
+   3.1. que es una variable.
+   3.2. tipos de variables.
+   3.2. como declarar e inicializar una variable.
+   3.3. método camelCase para nombrar variables.
+4. reasignar valor a variable ya declarada (no en caso de const)
+5. Los operadores
+   5.1. asignacion
+   5.2. aritméticos
+   5.3. comparación
+   5.4. lógicos
+6. Los condicionales
+   6.1. uso del if, else ig, else
+
 <h1 align="center">
   <a href="https://github.com/dzc1/ironhack-nov07">
     <img src="./assets/imgs/banner.png" alt="Vue Conforcat Class">
