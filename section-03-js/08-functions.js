@@ -1,5 +1,3 @@
-
-
 // JS Funciones
 
 // Funcion JavaScript y expresiones de función
