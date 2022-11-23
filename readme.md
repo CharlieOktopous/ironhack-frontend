@@ -62,6 +62,41 @@ En este readme veremos un breve resumen de lo que hemos realizado cada dia en la
 6. Los condicionales
    6.1. uso del if, else ig, else
 
+
+    
+## 15 Noviembre
+
+- JavaScript 
+    - Methods
+    - Objects
+    - Arrays
+    - Loops
+    - Conditionals
+
+## 16 Noviembre
+
+- JavaScript
+    - Lab JS
+    - DOM
+
+## 17 Noviembre
+
+- JavaScript
+    - Methods
+    - Lab JS
+    - Events
+
+# 18 Noviembre
+
+- JavaScript
+    - Lab
+    - Callback
+    - Promise 
+    - Async/wait
+
+
+
+
 <h1 align="center">
   <a href="https://github.com/dzc1/ironhack-nov07">
     <img src="./assets/imgs/banner.png" alt="Vue Conforcat Class">
